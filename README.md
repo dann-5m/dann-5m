@@ -1,9 +1,18 @@
-<h3 align="center">A passionate frontend developer from the United Kingdom</h3>
+### Hi there 👋, My name is Stveu
+#### About Me:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stveu&label=Profile%20views&color=0e75b6&style=flat" alt="stveu" /> </p>
+I'm an up and coming Programmer specialising in Python, Lua, Java, HTML and CSS.
+
+Skills: Python / Lua / Java / HTML / CSS
+
+- 🔭 I’m currently working on A FiveM Roleplay Server 
+- 🌱 I’m currently learning LUA and HTML 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/stveu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Danvine3)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stveu&show_icons=true&locale=en" alt="stveu" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=stveu&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/stveu)  
+
+![Profile views](https://gpvc.arturio.dev/stveu)  
