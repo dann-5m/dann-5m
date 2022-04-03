@@ -1,3 +1,4 @@
-[![Dan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dann-5m&count_private=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+### Now Playing 🎧
 
-[![Dann's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dann-5m&langs_count=6&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+<br/>
