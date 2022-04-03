@@ -1,4 +1,4 @@
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/4fbb8e6627304aa692d8fe31d9945acd)
 <br/>
