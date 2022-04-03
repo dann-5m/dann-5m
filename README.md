@@ -1,6 +1,6 @@
 <p align="center">
-## Heyyo, I'm <a href="https://dann5m.me" target="_blank">Dan</a>!
-
+  ## Heyyo, I'm <a href="https://dann5m.me" target="_blank">Dan</a>!
+</p>
 ### Languages and Tools:
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
@@ -17,4 +17,3 @@
 [![Dan's Github Stats](https://github-readme-stats.vercel.app/api?username=dann-5m&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-</p>
