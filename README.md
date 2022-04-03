@@ -1,4 +1,4 @@
-## Heyyo, I'm <a href="https://dann5m.me" target="_blank">Dan or dann-5m</a>!
+## Heyyo, I'm <a href="https://dann5m.me" target="_blank">Dan</a>!
 # I'm currently
 
 ### Languages and Tools:
