@@ -1,3 +1,4 @@
+<p align="center">
 ## Heyyo, I'm <a href="https://dann5m.me" target="_blank">Dan</a>!
 
 ### Languages and Tools:
@@ -16,3 +17,4 @@
 [![Dan's Github Stats](https://github-readme-stats.vercel.app/api?username=dann-5m&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+</p>
