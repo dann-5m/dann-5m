@@ -3,7 +3,7 @@ I'm Dan, a guy who loves to code on the modded GTA 5 platform, FiveM. I'm curren
 
 ## Languages / Experience
 - Lua
-- Typescript React
+- Typescript React (Learning 👩‍🏫)
 - Javascript
 - HTML
 - CSS
