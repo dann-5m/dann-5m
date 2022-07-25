@@ -2,6 +2,17 @@
 
 <img src="https://cdn.discordapp.com/attachments/832624945309286411/1001137777917829190/githubpicture.png">
 
+## About Me 🧑
+
+Hey there 👋
+
+My name is Dan, and I'm a full-time student and FiveM enthusiast. I specialise in LUA, which connects with FiveM and allows me to code a variety of different resources. I'm also learning React (Typescript) to create unique interfaces for a variety of applications. I'm also familiar with HTML, CSS, Javascript, and MySQL.
+
+### React User Interfaces
+As I learn more of React, i'll be uploading showcases of UI's that I've made
+> [Character Selector]([url](https://streamable.com/5hzwlr))
+> [Spawn Selector ]([url](https://streamable.com/78wmat))
+
 ## &#x1f4c8; GitHub Stats
 
 <br>
