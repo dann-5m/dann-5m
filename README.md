@@ -10,6 +10,8 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api??username=dann-5m&count_private=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=00102a" alt="Dan's GitHub Stats" />
 </a>
 
+![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dann-5m"&count_private=true)
+
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-LUA-informational?style=flat&logo=Lua&logoColor=white&color=00102a)
