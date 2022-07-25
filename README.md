@@ -25,6 +25,7 @@ As I learn more of React, i'll be uploading showcases of UI's that I've made
 
 ![](https://img.shields.io/badge/Code-LUA-informational?style=flat&logo=Lua&logoColor=white&color=00102a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=00102a)
+![](https://img.shields.io/badge/Code-MUI-informational?style=flat&logo=MUI&logoColor=white&color=00102a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=00102a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=00102a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=00102a)
