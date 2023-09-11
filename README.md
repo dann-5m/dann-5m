@@ -10,12 +10,13 @@ My name is Dan, and I'm a full-time student and FiveM enthusiast. I specialise i
 
 ### React User Interfaces
 As I learn more of React, i'll be uploading showcases of UI's that I've made
-- [Character Selector](https://streamable.com/5hzwlr)
-- [Phone](https://i.imgur.com/XHdACee.png)
+- [Multi Character](https://streamable.com/altgw7)
 - [Spawn Selector](https://streamable.com/78wmat)
-- [Boosting Tablet](https://i.imgur.com/IDdl8yV.png)
-
+- [Boosting Tablet](https://imgur.com/IDdl8yV)
 - [Spawn Selector (React Leaflet)](https://www.youtube.com/watch?v=3BP-mVIOzNA)
+- [Context Menu](https://streamable.com/gh0v43)
+- [Loading Screen](https://streamable.com/1w6xck)
+- [Phone](https://streamable.com/hf2r4v)
 
 ## &#x1f4c8; GitHub Stats
 
