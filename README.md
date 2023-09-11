@@ -36,6 +36,7 @@ As I learn more of React, i'll be uploading showcases of UI's that I've made
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=00102a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=00102a)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=00102a)
+![](https://img.shields.io/badge/Code-Mantine-informational?style=flat&logo=Mantine&logoColor=white&color=00102a)
 
 <br>
 
