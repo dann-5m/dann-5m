@@ -1,6 +1,6 @@
 # Hi, I'm Dan
 
-<img src="https://cdn.discordapp.com/attachments/832624945309286411/1001137777917829190/githubpicture.png">
+![pfp2](https://github.com/dann-5m/dann-5m/assets/76439485/82726ca2-8682-4484-8dfa-d1493435d46d)
 
 ## About Me 🧑
 
