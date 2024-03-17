@@ -1,6 +1,6 @@
 # Hi, I'm Dan
 
-![pfp2](https://github.com/dann-5m/dann-5m/assets/76439485/82726ca2-8682-4484-8dfa-d1493435d46d)
+![pfp2](https://github.com/dann-5m/dann-5m/assets/76439485/a4d1aee1-1e74-4665-bf16-b48141377762)
 
 ## About Me 🧑
 
