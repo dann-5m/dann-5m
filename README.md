@@ -6,7 +6,7 @@
 
 Hey there 👋
 
-My name is Dan, and I'm a full-time student and FiveM enthusiast. I specialise in LUA, which connects with FiveM and allows me to code a variety of different resources. I'm also learning React (Typescript) to create unique interfaces for a variety of applications. I'm also familiar with HTML, CSS, Javascript, and MySQL.
+My name is Dan, I specialise in LUA and ReactTS, which connects with FiveM and allows me to code a variety of different resources. I'm also learning React (Typescript) to create unique interfaces for a variety of applications. I'm also familiar with HTML, CSS, Javascript, and MySQL.
 
 ### React User Interfaces
 As I learn more of React, i'll be uploading showcases of UI's that I've made
