@@ -1,6 +1,6 @@
 ### Hello 👋🏼
 
-#### Part-time Front End Web Developer | Amateur Golfer 🏌🏼‍♂️
+#### Amateur Front End Developer | Amateur Golfer 🏌🏼‍♂️
 
 Portfolio - [Website](https://danvine.co.uk)<br>
 Developer @ [ParadymRP](https://paradym.gg)<br>
