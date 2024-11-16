@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dan Vine
-================================================================================================================================
 
-Junior Web Developer
+![banner](https://github.com/user-attachments/assets/d4512123-2620-4324-976c-9b01a2b10358)
+
+Hi i'm Dan, a junior web developer, welcome to my github!
 --------------------
 
 * 🌍  I'm based in South West England
