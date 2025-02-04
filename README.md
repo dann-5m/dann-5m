@@ -1,5 +1,4 @@
-
-![banner](https://github.com/user-attachments/assets/d4512123-2620-4324-976c-9b01a2b10358)
+![banner](https://github.com/user-attachments/assets/68c49735-620a-4ad8-be34-7d07ade47b46)
 
 Hi i'm Dan, a junior web developer, welcome to my github!
 --------------------
