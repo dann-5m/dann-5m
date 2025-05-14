@@ -1,5 +1,3 @@
-![banner](https://github.com/user-attachments/assets/68c49735-620a-4ad8-be34-7d07ade47b46)
-
 Hi i'm Dan, a web developer by day, FiveM code monkey by night!
 --------------------
 
